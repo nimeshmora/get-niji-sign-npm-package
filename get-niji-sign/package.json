@@ -7,6 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Nimesha Jinarajadasa",
-  "license": "ISC"
+  "license": "ISC",
   "homepage": "https://github.com/nimeshmora/get-niji-sign-npm-package"
 }
