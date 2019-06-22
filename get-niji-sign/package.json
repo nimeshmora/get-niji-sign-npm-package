@@ -1,0 +1,11 @@
+{
+  "name": "get-niji-sign",
+  "version": "1.0.0",
+  "description": "This package will take any of the string you provide and add niji sign after it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nimesha Jinarajadasa",
+  "license": "ISC"
+}
